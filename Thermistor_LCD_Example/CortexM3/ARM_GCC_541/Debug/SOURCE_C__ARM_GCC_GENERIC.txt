@@ -1,0 +1,1 @@
+'C:\git\Git Workspace\Thermistor_Lab.cydsn\main.c' -o .o -T SOURCE_C__ARM_GCC_GENERIC -I 'C:\git\Git Workspace\Thermistor_Lab.cydsn' -I 'C:\git\Git Workspace\Thermistor_Lab.cydsn\Generated_Source\PSoC5' -f 'C:\git\Git Workspace\Thermistor_Lab.cydsn\CortexM3\ARM_GCC_541\Debug\.deps\SOURCE_C__ARM_GCC_GENERIC.d'

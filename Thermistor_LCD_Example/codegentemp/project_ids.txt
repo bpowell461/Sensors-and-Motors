@@ -1,0 +1,6 @@
+C:\git\Git Workspace\Thermistor_Lab.cydsn\Thermistor_Lab.cyprj|f9958252-2ebe-4c0b-8f74-a30145b63ef4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|6ee09a9b-263a-4381-8052-c096b9846c01
+C:\Users\Brad\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|ba2091c8-fb41-4521-bbb6-4aff59320455
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b3ecc3c7-22d8-4fe7-be2d-6665beaf1b4c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|884dc620-85d7-4df6-9a12-93228a07a090
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|04d5770b-4c69-481e-822c-594e3018ebcd
